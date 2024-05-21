@@ -1,16 +1,9 @@
 # webrtc_app
 
-A new Flutter project.
+This code is coppied from this medium article: https://medium.com/@sanjaysharmajw/flutter-webrtc-484848f47ac0
+which I beleive is a fix on this github repos code: https://github.com/md-weber/webrtc_tutorial.
+I plan to build aditional features and smooth out the rough edges for my own applications.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I started work on this for a Computer networks presentation in my Unviersity to showcase different media streaming protocols and compare them.
+However I had been interested in webRTC long before that while trying to stream video from my android-arduino robot to my laptop for computer vision.
+Now that I have a working app I will make some changes and implement this on the bot.
